@@ -1,3 +1,4 @@
-# Init.ai Readme.io documentation backup
+# Init.ai Documentation
 
-Backup of the current Init.ai docs as of **09-15-2017**
+> **Note:** This is a backup of the Init.ai docs as of **09-15-2017** from [Readme.io](readme.io)
+
